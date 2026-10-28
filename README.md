@@ -341,29 +341,5 @@ Connecting AI models directly to structured databases for real-time insights.
 
 ---
 
-## Limitations
 
-- Complex analytical queries may require manual optimisation.
-- Accuracy depends on database schema clarity.
-- Requires a valid Groq API key.
-- Generated SQL should be reviewed before use in production environments.
-
----
-
-## Learning Outcomes
-
-This project demonstrates hands-on experience with:
-
-- LangChain
-- LLM Applications
-- Agentic AI
-- Text-to-SQL Systems
-- Groq API
-- SQLAlchemy
-- SQLite
-- MySQL
-- Streamlit
-- Prompt Engineering
-
----
 
