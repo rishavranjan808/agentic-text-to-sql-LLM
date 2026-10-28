@@ -367,10 +367,3 @@ This project demonstrates hands-on experience with:
 
 ---
 
-## Disclaimer
-
-This project is intended for educational and demonstration purposes. Generated SQL queries should be reviewed before being executed in production environments.
-
----
-
-⭐ If you found this project useful, consider giving the repository a star.
